@@ -1,0 +1,21 @@
+The App logs information. Sensitive information should never be logged. & 36\\ \hline
+App can read/write to External Storage. Any App can read data written to External Storage. & 16\\ \hline
+This App uses Java Hash Code. It's a weak hash function and should never be used in Secure Crypto Implementation. & 35\\ \hline
+App uses SQLite Database and execute raw SQL query. Sensitive information should be encrypted and written to the database. & 25\\ \hline
+Files may contain hardcoded sensitive informations like usernames, passwords, keys etc. & 25\\ \hline
+Insecure WebView Implementation. Execution of user controlled code in WebView is a critical Security Hole. & 5\\ \hline
+IP Address disclosure & 12\\ \hline
+MD5 is a weak hash known to have hash collisions. & 15\\ \hline
+SHA-1 is a weak hash known to have hash collisions. & 9\\ \hline
+The App uses an insecure Random Number Generator. & 23\\ \hline
+The App uses ECB mode in Cryptographic encryption algorithm. ECB mode is known to be weak as it results in the same ciphertext for identical blocks of plaintext. & 3\\ \hline
+This App copies data to clipboard. Sensitive data should not be copied to clipboard as other applications can access it. & 10\\ \hline
+This App may have root detection capabilities. & 7\\ \hline
+Insecure Implementation of SSL. Trusting all the certificates or accepting self signed certificates is a critical Security Hole. This application is vulnerable to MITM attacks & 2\\ \hline
+App creates temp file. Sensitive information should never be written into a temp file. & 10\\ \hline
+This App may request root (Super User) privileges. & 1\\ \hline
+This App uses SQL Cipher. But the secret may be hardcoded. & 2\\ \hline
+This App may have root detection capabilities. & 4\\ \hline
+App can write to App Directory. Sensitive Information should be encrypted. & 7\\ \hline
+The file is World Readable. Any App can read from the file & 1\\ \hline
+Remote WebView debugging is enabled. & 1\\ \hline

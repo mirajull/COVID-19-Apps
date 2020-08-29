@@ -1,0 +1,20 @@
+Mapbox & 1\\ \hline
+Google AnaLytics & 6\\ \hline
+Google Firebase Analytics & 28\\ \hline
+Google CrashLytics & 7\\ \hline
+Google Tag Manager & 3\\ \hline
+Facebook Analytics & 5\\ \hline
+Facebook Login & 5\\ \hline
+Facebook Places & 4\\ \hline
+Facebook Share & 4\\ \hline
+Facebook Share & 3\\ \hline
+Microsoft Appcenter Analytics & 2\\ \hline
+Microsoft Appcenter Crashes & 2\\ \hline
+Amplitude & 2\\ \hline
+MixPanel & 1\\ \hline
+Urbanairship & 1\\ \hline
+Adjust & 1\\ \hline
+AltBeacon & 1\\ \hline
+Google Ads & 2\\ \hline
+Facebook Ads & 2\\ \hline
+OneSignal & 1\\ \hline
